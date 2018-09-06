@@ -41,10 +41,11 @@ seqss 48 seqs, max length 2217, avg  length 2209
 Comparison of input and output of the command:
 
 [The seqs.fa file](https://github.com/TheGaga/Lab2/blob/master/seqs.fa)
+
 [The seqs.aligned.fa file](https://github.com/TheGaga/Lab2/blob/master/seqs.aligned.fa)
 
 
-After this, we utilized Morgan	Price’s	excellent	tool	FastTree	turn	multiple	alignment	into	a	
+After this, we utilized Morgan	Price’s	excellent	tool	FastTree	to turn	multiple	alignment	into	a	
 Newick-formatted	tree with the following command:
 
 ```
